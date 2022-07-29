@@ -1,3 +1,6 @@
+# fork notes
+The datasets used in the study are downloaded from reference [26], in which Chen et al. collected 495 miRNAs, 383 diseases and 5430 experimentally validated miRNA- disease associations from HMDD v2.0 [46].
+
 # MKGAT
 > Code and Datasets for "Predicting miRNA-disease associations based on graph attention networks and dual Laplacian regularized least squares" 
 
